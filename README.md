@@ -6,7 +6,7 @@ Photocell door that can be opened and closed according to face recognition. Proj
 -Lastly if someone inside the door want's to get out. There is a sensor inside that tracks motion, when it detect motion Arduino will open the door.
 
 
-# Project-Images
+# Project Images
 
 </br>
 <div style="display:flex;justify-content: space-evenly">
