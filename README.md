@@ -19,4 +19,5 @@ Photocell door that can be opened and closed according to face recognition. Proj
 </br>
 <div style="text-align: center">
 <img src="https://github.com/HarunResitKarahan/Photocell-Door-with-Arduino-and-face_recognition-Library/blob/main/CircuitDiagram.png" width="400">
+</div>
 </br>
