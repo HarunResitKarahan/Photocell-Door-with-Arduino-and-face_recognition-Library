@@ -1,7 +1,9 @@
 # Photocell-Door-with-Arduino-and-face_recognition-Library
 Photocell door that can be opened and closed according to face recognition. Project simply works like; </br>
 </br>-Python side take video stream from ESP-32 CAMERA that streaming through wifi. </br>
--Uses face_recognition library to process captured faces in video stream and compare faces that registered in the system. If the faces match, Python send the name of registered person to Arduino through Serial Port. Arduino display it on the Lcd like "Welcome ...." and Open the door for 3 seconds.
+-Uses face_recognition library to process captured faces in video stream and compare faces that registered in the system. If the faces match, Python send the name of registered person to Arduino through Serial Port. Arduino display it on the Lcd like "Welcome ...." and Open the door for 3 seconds.</br>
+-When door is closing if there was a interrupt like puting something between door, door will reopen and stay opened until object removed.
+
 
 # Project-Images
 
